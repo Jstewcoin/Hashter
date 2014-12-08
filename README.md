@@ -1,0 +1,4 @@
+Hashter
+=======
+
+Hashter coin
